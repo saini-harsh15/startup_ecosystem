@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+ml_service/venv/
+ml_service/__pycache__/
+*.pyc
